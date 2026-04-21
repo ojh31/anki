@@ -7,7 +7,7 @@ This repo holds plain-text Anki import files, one file per course/topic at the r
 Flat: `<course-slug>.txt` at the root. All flashcards for a given course go in one file.
 
 Current files:
-- `wfr.txt` — Wilderness First Responder
+- `wfr.txt` — Wilderness First Responder (NOLS curriculum — use NOLS terminology and frameworks, e.g. the three-phase Patient Assessment System)
 
 When adding a new course, create a new top-level `.txt` (short lowercase slug). Don't introduce subfolders.
 
