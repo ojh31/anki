@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Wilderness First Aid
+#tags:wfa mnemonics assessment
+What does the mnemonic <b>SAMPLE</b> stand for in Wilderness First Aid, and what is it used for?	<b>SAMPLE</b> is a patient history mnemonic used during a secondary assessment:<br><br><b>S</b> — Signs and Symptoms<br><b>A</b> — Allergies<br><b>M</b> — Medications<br><b>P</b> — Pertinent past medical history<br><b>L</b> — Last oral intake (food/water)<br><b>E</b> — Events leading up to the incident<br><br>It helps you gather the information needed to make an evacuation decision and guide ongoing care.
+What does the mnemonic <b>AVPU</b> stand for in Wilderness First Aid, and when do you use it?	<b>AVPU</b> is a rapid scale for assessing level of responsiveness, used during the primary (initial) assessment and for ongoing monitoring:<br><br><b>A</b> — Alert (awake, oriented to person/place/time/event)<br><b>V</b> — responds to Verbal stimulus<br><b>P</b> — responds to Painful stimulus only<br><b>U</b> — Unresponsive<br><br>A decline in AVPU is a red flag for a serious problem (e.g. head injury, shock, hypothermia) and warrants rapid evacuation.
