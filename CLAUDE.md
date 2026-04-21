@@ -35,6 +35,15 @@ Notes on the format:
 - `#notetype:Basic` — standard front/back. Use `Basic (and reversed card)` if you want both directions.
 - `#tags:` — space-separated, applied to every note in the file.
 
+## Atomicity
+
+Cards should be strictly atomic: **one concept, acronym, or fact per card**. When in doubt, split.
+
+- **Split** distinct items that just happen to be taught together. PPE and BSI are two acronyms — two cards. MOI and NOI — two cards.
+- **Keep as one** a mnemonic or short checklist that's learned and used as a single unit. SAMPLE, AVPU, the 4 P's of Safety, and the four "assess the numbers" questions each stay as one card — splitting them destroys the mnemonic/checklist structure.
+
+Test: if someone knowing half the card would still have a useful mental unit, split it. If they'd just have a fragment, keep it together.
+
 ## Importing
 
 Anki desktop → File → Import → pick the `.txt`. Anki reads the headers, shows a preview, and creates the deck if needed. Re-importing the same file updates existing notes when the front field matches (duplicate handling is configurable in the import dialog).
