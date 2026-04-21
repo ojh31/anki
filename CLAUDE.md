@@ -44,6 +44,14 @@ Cards should be strictly atomic: **one concept, acronym, or fact per card**. Whe
 
 Test: if someone knowing half the card would still have a useful mental unit, split it. If they'd just have a fragment, keep it together.
 
+## Editing vs. adding
+
+Before adding cards, scan the target `.txt` for overlap. If a concept is already covered, **edit the existing card** rather than creating a near-duplicate. Duplicates fragment the user's review history and confuse spaced-repetition scheduling.
+
+- Same question, better wording → edit the existing card.
+- Same topic, new facet the old card doesn't cover → add a new atomic card for the new facet, leave the old one alone.
+- Old card was wrong → edit it.
+
 ## Importing
 
 Anki desktop → File → Import → pick the `.txt`. Anki reads the headers, shows a preview, and creates the deck if needed. Re-importing the same file updates existing notes when the front field matches (duplicate handling is configurable in the import dialog).
