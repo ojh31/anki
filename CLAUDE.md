@@ -1,18 +1,15 @@
 # Anki Decks
 
-This repo holds plain-text Anki import files, one folder per course/topic.
+This repo holds plain-text Anki import files, one file per course/topic at the repo root.
 
 ## Layout
 
-```
-<course-slug>/
-  <deck-file>.txt
-```
+Flat: `<course-slug>.txt` at the root. All flashcards for a given course go in one file.
 
-Current folders:
-- `wfr/` — Wilderness First Responder
+Current files:
+- `wfr.txt` — Wilderness First Responder
 
-Create a new folder per course (short lowercase slug). One `.txt` file per logical deck or sub-topic is fine; Anki merges by the `#deck` header, not by filename.
+When adding a new course, create a new top-level `.txt` (short lowercase slug). Don't introduce subfolders.
 
 ## File format
 
