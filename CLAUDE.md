@@ -11,6 +11,10 @@ Current files:
 
 When adding a new course, create a new top-level `.txt` (short lowercase slug). Don't introduce subfolders.
 
+## Syllabus trackers
+
+For courses with a structured curriculum (currently `wfr.txt`), there is a companion `<slug>-syllabus.md` at the repo root that tracks how far through the syllabus the cards have covered. **Whenever you add cards, update the matching syllabus tracker in the same change** — flip topics from ⚪/🟡 to 🟢, advance the 🟡 marker, or add new subtopics if the syllabus structure shifts. The tracker is the source of truth for "where are we?"; if it's stale, future sessions will guess.
+
 ## File format
 
 Plain UTF-8 `.txt`, tab-separated, with `#key:value` header lines at the top. Reference: https://docs.ankiweb.net/importing/text-files.html
