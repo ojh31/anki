@@ -11,10 +11,6 @@ Current files:
 
 When adding a new course, create a new top-level `.txt` (short lowercase slug). Don't introduce subfolders.
 
-## Syllabus trackers
-
-For courses with a structured curriculum (currently `wfr.txt`), there is a companion `<slug>-syllabus.md` at the repo root that tracks how far through the syllabus the cards have covered. **Whenever you add cards, update the matching syllabus tracker in the same change** — flip topics from ⚪/🟡 to 🟢, advance the 🟡 marker, or add new subtopics if the syllabus structure shifts. The tracker is the source of truth for "where are we?"; if it's stale, future sessions will guess.
-
 ## File format
 
 Plain UTF-8 `.txt`, tab-separated, with `#key:value` header lines at the top. Reference: https://docs.ankiweb.net/importing/text-files.html
@@ -47,6 +43,20 @@ Cards should be strictly atomic: **one concept, acronym, or fact per card**. Whe
 - **Keep as one** a mnemonic or short checklist that's learned and used as a single unit. SAMPLE, AVPU, the 4 P's of Safety, and the four "assess the numbers" questions each stay as one card — splitting them destroys the mnemonic/checklist structure.
 
 Test: if someone knowing half the card would still have a useful mental unit, split it. If they'd just have a fragment, keep it together.
+
+## Phrasing
+
+For cards with list-like answers, keep each bullet brief — a few words, not a sentence. If a point needs more detail, give it its own card rather than fattening the list. Prefer acronyms/mnemonics for these lists when one fits naturally; they make the card easier to recall.
+
+**WFR question format:** prefer the standard wilderness-medicine shorthand on the front of the card:
+- `S/S of <condition>` (signs and symptoms)
+- `Tx of <condition>` (treatment)
+- `Mechanism of <condition>` (pathophysiology / how it happens)
+- `Evac for <condition>` (evacuation criteria / urgency)
+
+These match how the material is taught and tested, and keep card fronts short and scannable.
+
+**Medical abbreviations:** use common shorthand inside cards to save space — e.g. `N/V` (nausea/vomiting), `LoR` (level of responsiveness), `LoC` (loss of consciousness), `ETOH` (alcohol), `SOB` (shortness of breath), `Hx` (history), `Pt` (patient). Every abbreviation used on the back of a card should also have its own atomic card with the abbreviation on the front and the expansion on the back, so the reader can confirm what it means.
 
 ## Editing vs. adding
 
