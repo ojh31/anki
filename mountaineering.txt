@@ -1,0 +1,49 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Climbing::Mountaineering
+#tags:mountaineering gear glacier
+What is a boot <b>welt</b>, and why does it matter for crampons?	Grooved <b>ledge/lip</b> at the toe and/or heel.<br><br>Gives a <b>toe bail</b> or <b>heel lever</b> something to lock onto → needed for step-in/semi-auto crampons.
+What is a crampon <b>bail</b>?	The stiff <b>wire clip</b> (toe) or <b>lever</b> (heel) that snaps onto a boot <b>welt</b> to hold a semi-auto or auto crampon.
+What is a boot <b>shank</b>?	A <b>stiffening insert</b> (nylon, fibreglass, or steel) through the sole.<br><br>Controls sole flex — more shank = stiffer = better for <b>front-pointing</b>.
+What is <b>front-pointing</b>?	Climbing steep snow/ice by kicking the crampon's <b>front points</b> straight into the slope, facing in.
+<b>3/4-shank</b> mountaineering boot — characteristics &amp; use?	• Shank runs <b>~3/4 of the sole</b>; toe still flexes<br>• Semi-rigid; comfier walking<br>• For <b>general mountaineering, approaches, moderate snow</b><br>• <b>Heel welt</b> only
+<b>Full-shank</b> mountaineering boot — characteristics &amp; use?	• Shank runs the <b>full sole</b> → <b>fully rigid</b>, no toe flex<br>• For <b>front-pointing</b> and technical climbing<br>• Stiffer, heavier, clumsier walking<br>• <b>Toe + heel welts</b>
+3/4-shank vs full-shank boot: which crampons does each take?	<b>3/4-shank</b> (heel welt only): strap-on or <b>semi-automatic</b><br><b>Full-shank</b> (toe + heel welts): all types, incl. <b>automatic / step-in</b>
+What is a <b>strap-on (universal)</b> crampon binding?	Toe and heel held by <b>flexible straps/cradles</b> — no bail.<br><br>• Fits <b>almost any boot</b> (no welt needed)<br>• Forgiving, least secure<br>• Slow on; straps loosen
+What is a <b>semi-automatic (hybrid)</b> crampon binding?	<b>Toe:</b> <b>cradle held by a strap</b> (no toe welt needed)<br><b>Heel:</b> <b>lever/bail</b> → needs a <b>heel welt</b><br><br>Middle ground: more secure than straps, fits more boots than step-ins.
+What is an <b>automatic (step-in)</b> crampon binding?	<b>Toe:</b> <b>wire bail</b> → needs a <b>toe welt</b><br><b>Heel:</b> <b>lever/bail</b> → needs a <b>heel welt</b><br><br>• Most <b>secure</b> — best for steep ice<br>• Needs a fully rigid boot (toe + heel welts)
+<b>Auto</b> vs <b>semi-auto</b> crampons: the key difference?	The <b>toe attachment</b> (heel is a lever on both):<br><br>• <b>Semi-auto</b> — <b>strap-on cradle</b>; no toe welt needed<br>• <b>Auto / step-in</b> — <b>wire bail</b>; needs a <b>toe welt</b>
+What is the boot stiffness rating system (<b>B0–B3</b>)?	<b>B0</b> — flexible, no crampons<br><b>B1</b> — stiffened<br><b>B2</b> — semi-rigid (~3/4 shank)<br><b>B3</b> — fully rigid (full shank)
+What is the crampon rating system (<b>C1–C3</b>)?	<b>C1</b> — flexible / strap-on<br><b>C2</b> — semi-automatic<br><b>C3</b> — automatic / step-in
+Crampon &amp; boot compatibility: which Cx fits which Bx?	Match the crampon to a boot of the <b>same number or higher</b>:<br><br>• <b>C1</b> → B1, B2, B3<br>• <b>C2</b> → B2, B3<br>• <b>C3</b> → B3 only
+What are <b>anti-balling plates</b> (anti-bott plates)?	<b>Plastic/rubber plates</b> on the underside of crampons.<br><br>Stop wet snow packing up between the points.
+Why does snow <b>balling up</b> under crampons matter?	Snow packs into a <b>ball</b> that <b>buries the points</b> → lose traction, slip/fall.<br><br>Worst in <b>wet, warm snow</b>.
+Why rope up for <b>glacier travel</b>?	So a climber who breaks through a <b>hidden crevasse</b> can be <b>caught and held</b> by the team.
+Glacier travel: how much rope between climbers? (arm-span rule)	<b>10 − n arm spans</b> between climbers (n = number on the rope team).
+What is an <b>arm span</b> as a field measure of rope?	Your <b>full wingspan</b>, fingertip to fingertip ≈ your <b>height</b> (a <b>fathom</b>, ~1.7 m).
+What is a <b>bight</b> of rope?	A <b>U-shaped bend</b> in the rope — a loop formed <b>without using an end</b>.
+What is the harness <b>belay loop</b>?	The sewn loop joining the leg loops and waist belt — the harness's <b>strongest point</b>, used to clip in and belay.
+On a glacier rope team, why keep <b>minimal slack</b> between climbers?	Slack lets the faller <b>accelerate and drop further</b> before the rope catches → harder to arrest.
+What do the <b>end climbers</b> do with leftover rope on a glacier team?	Carry it as <b>coils</b> (kiwi coils) — a <b>reserve</b> for building a <b>hauling system</b> in a rescue.
+Why tie <b>friction knots</b> in the rope between climbers on a glacier?	If a climber falls in, the knots <b>jam into the crevasse lip</b> and add friction — aiding arrest.<br><br>Esp. useful for 2-person teams.
+Which knots are tied for crevasse-fall friction, and where?	<b>Alpine butterfly</b> or <b>overhand on a bight</b>, every <b>~1–3 m</b> in the gap between climbers.
+Main <b>downside</b> of friction knots in the glacier rope?	In a rescue they must be <b>passed through the hauling system</b> (knot-passing) — slower and more complex.
+Glacier travel: how do the <b>end climbers</b> tie in?	A <b>bight</b> (alpine butterfly / overhand-on-a-bight) clipped to the <b>belay loop</b> with a <b>locking carabiner</b> — like the middle climbers.<br><br>Tied <b>a short way in from the end</b> so the tail = rescue coils.
+Glacier travel: how does a <b>middle climber</b> tie in?	An <b>alpine butterfly</b> clipped to the <b>belay loop</b> with a <b>locking carabiner</b> — a secure in-line loop.
+Why clip a bight in with a locking carabiner rather than tie in directly?	You can <b>detach quickly</b> to <b>escape the system</b> for a crevasse rescue — no untying a loaded knot.
+Why <i>not</i> a rewoven figure-8 at the rope's end for glacier tie-in?	• Tie in <b>away from the end</b> (tail = rescue coils)<br>• Figure-8 <b>jams under load</b> — slow to free<br>• Clipped bight <b>detaches faster</b>
+What does <b>escape the system</b> mean in crevasse rescue?	Transfer the faller's weight onto an <b>anchor</b> so you're <b>off the rope</b> and free to run the rescue.
+What is a <b>Kiwi coil</b>?	Shortening the rope by taking coils <b>over your head and one shoulder</b>, then tying them off.
+<b>Kiwi coil:</b> pro of passing a bight through the <b>belay loop</b> before tying off?	Fall load goes onto the <b>belay loop</b>, not the <b>coils round your neck/torso</b> — and locks the coils.
+<b>Kiwi coil:</b> con of passing a bight through the belay loop before tying off?	<b>Fiddlier and slower</b> to release or feed rope when changing length on the move.
+Usual rope length for <b>glacier travel</b>?	About <b>30 m</b> of skinny (~8–9 mm) rope — covers spacing + reserve coils.
+What is <b>short roping</b>?	Guide keeps a <b>short, snug length</b> (coils in hand), <b>moves together</b>, and catches a <b>slip</b> instantly.
+When is short roping appropriate, and what's its main risk?	<b>Use:</b> moderate/exposed terrain where the hazard is a <b>slip</b>, not a big fall.<br><b>Risk:</b> on serious terrain a real <b>fall pulls the whole party off</b> — it's not a belay.
+Snow anchors: why is a <b>buried horizontal (T-slot / deadman)</b> placement stronger than a vertical one?	It loads a <b>large area of snow</b>.<br><br>A vertical placement can <b>lever and pull out</b> of soft snow.
+What is a <b>T-slot (deadman)</b> snow anchor?	A picket, axe, or ski <b>buried horizontally</b> in a trench <b>⊥ to the load</b>, sling running down a <b>slot</b> toward the load.<br><br>Strongest option in soft snow.
+How do you place a <b>vertical driven picket</b>?	Drive into <b>firm snow</b>, <b>angled ~10–15° back</b> from the pull, clip in <b>low at the surface</b>.<br><br>Quick, but weaker than a T-slot.
+Using an <b>ice axe</b> as a snow anchor — two ways?	<b>Buried horizontally</b> as a deadman (T-slot) — strong; or driven <b>vertically</b> for a <b>boot-axe belay</b> in firm snow — weaker.
+What is a <b>boot-axe belay</b>?	Quick snow belay: axe driven <b>vertically</b> into firm snow, braced by your <b>boot</b>, rope run around the shaft.
+Using <b>skis</b> (or poles) as a snow anchor?	<b>Bury a ski horizontally</b> as a deadman (T-slot), or drive one <b>vertically</b> in firm snow; poles too.
+Snow anchor general principles?	• <b>Snow quality</b> dictates strength — test it<br>• Prefer <b>buried / horizontal</b><br>• <b>Angle the sling down</b> toward the load<br>• <b>Equalise and back up</b><br>• <b>Pad the lip</b> so the sling doesn't saw through
